@@ -13,4 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--># 👋 Hi, I'm Sharvil
+
+🚀 Full Stack Developer  
+💻 Building Emergency SOS Web App  
+📍 Engineering Student  
+
+## 🛠️ Tech Stack
+- JavaScript
+- Node.js
+- MongoDB
+- APIs
+
+## 📌 Projects
+- 🚨 Emergency SOS Web App
+
