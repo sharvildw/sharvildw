@@ -1,30 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Sharvil Waghmare
 
-<!--
-**sharvilwaghmare113-ops/sharvilwaghmare113-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | Engineering Student  
+💡 Interested in Web Development, APIs, and Real-world Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---># 👋 Hi, I'm Sharvil
+## 🧑‍💻 About Me
 
-🚀 Full Stack Developer  
-💻 Building Emergency SOS Web App  
-📍 Engineering Student  
+- 🎓 Engineering Student
+- 🔥 Building real-world projects
+- 🚨 Developed an Emergency SOS Web Application
+- 🌱 Currently learning Backend Architecture & Deployment
+
+---
 
 ## 🛠️ Tech Stack
+
+### Frontend
+- HTML
+- CSS
 - JavaScript
+
+### Backend
 - Node.js
+- Express.js
+
+### Database
 - MongoDB
-- APIs
 
-## 📌 Projects
-- 🚨 Emergency SOS Web App
+### Tools
+- Git
+- GitHub
+- Twilio API
+- VS Code
 
+---
+
+## 🚀 Featured Project
+
+### 🚨 Emergency SOS Web App
+
+A full-stack emergency system that sends live location via SMS.
+
+**Features:**
+- One-click SOS
+- Live location sharing
+- Twilio SMS alerts
+- MongoDB contact storage
+
+🔗 Project Link:  
+https://github.com/sharvilwaghmare113-ops/sos-emergency-web-app
+Portfolio :- https://sharvil.dypcoeiincubationcentre.com/
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sharvilw?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  
+
+---
+
+⭐ Thanks for visiting my profile!
