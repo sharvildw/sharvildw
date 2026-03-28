@@ -49,7 +49,7 @@ A full-stack emergency system that sends live location via SMS.
 - MongoDB contact storage
 
 🔗 Project Link:  
-https://github.com/sharvilwaghmare113-ops/sos-emergency-web-app
+https://github.com/sharvildw/sos-emergency-web-app
 Portfolio :- https://sharvil.dypcoeiincubationcentre.com/
 
 ---
